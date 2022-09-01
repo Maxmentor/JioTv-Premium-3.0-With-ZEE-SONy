@@ -22,4 +22,6 @@ Step 5- Goto http://localhost:8080/jiotv-premium/login.php
 
 Note :- In Step 5 , Fill Your Mobile Number Without +91 & Password. After Login You Can Watch All Jiotv Live Channels .
 
+Preview LINK:- http://maxprodrive.rf.gd/JIO/index.php
+
 Telegram :- http://t.me/techmaxpro
