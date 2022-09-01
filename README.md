@@ -6,6 +6,8 @@ JioTv-Web Watch All Live TV Channels With JioTv Web App.
 
 {Updated 21 July 2022}
 
+Note:- This Project Only Working On LocalHost Server Or INDIAN VPS Server
+
 Watch Live Tv Now
 
 Step 1 - Download SCRIPT
