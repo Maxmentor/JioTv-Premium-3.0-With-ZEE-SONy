@@ -4,7 +4,7 @@ JioTv-Web Watch All Live TV Channels With JioTv Web App.
 
 ▀▄▀▄▀▄ JioTv Premium 3.0 ▀▄▀▄▀▄
 
-{Updated 21 July 2022}
+{Updated 22 September 2022}
 
 Note:- This Project Only Working On LocalHost Server Or INDIAN VPS Server
 
